@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/resume-theme
+repository: shoaib6174/shoaib6174.github.io
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -19,9 +19,9 @@ twitter_username: shoaib6174
 github_username:  shoaib6174
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
-# facebook_username: jekyll
+facebook_username: shoaib6174
 # flickr_username: jekyll
-instagram_username: jameswgrant
+instagram_username: shoaib_himself
 linkedin_username: shoaib6174
 # xing_username: jekyll
 # pinterest_username: jekyll
