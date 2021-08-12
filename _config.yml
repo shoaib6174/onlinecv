@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Mohammad Shoaib
-title: "Microsoft Certified: Data Analyst Associate and Azure Data Scientist Associate"
+title: "Microsoft Certified: Data Analyst Associate ||| Microsoft Certified: Azure Data Scientist Associate"
     
 email: shoaib6174@gmail.com
 website: https://shoaib6174.github.io/
@@ -31,10 +31,10 @@ linkedin_username: shoaib6174
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+#additional_links:
+#- title: itsgoingto.be
+  #icon: fas fa-globe
+  #url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
