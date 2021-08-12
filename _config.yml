@@ -7,7 +7,8 @@ version: 2
 
 # Personal info
 name: Mohammad Shoaib
-title: "Microsoft Certified: Data Analyst Associate ||| Microsoft Certified: Azure Data Scientist Associate"
+title: "Microsoft Certified: Data Analyst Associate | Microsoft Certified: Azure Data Scientist Associate"
+
     
 email: shoaib6174@gmail.com
 website: https://shoaib6174.github.io/
@@ -21,14 +22,9 @@ github_username:  shoaib6174
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 facebook_username: shoaib6174
-# flickr_username: jekyll
 instagram_username: shoaib_himself
 linkedin_username: shoaib6174
-# xing_username: jekyll
-# pinterest_username: jekyll
-#youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
+
 
 # Additional icon links
 #additional_links:
@@ -53,25 +49,75 @@ about_content: | # this will include new lines to allow paragraphs
  
 
 content:
+  - title: Skills # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Data Science
+      
+        description: | # this will include new lines to allow paragraphs
+           <mark>Computer Vision</mark>  <mark>Sequence Modeling</mark>  <mark>Regression</mark>  <mark>Classification</mark>  <mark>Time Series Analysis</mark>  <mark>Feature Engineering</mark>  <mark>PCA</mark>  <mark>TensorFlow</mark>  <mark>Scikit-learn</mark>  <mark>Implementing Data Science Solution</mark>  
+      - layout: left
+        title: Data Analysis
+      
+        description: | # this will include new lines to allow paragraphs
+           <mark>Power BI</mark>  <mark>Tableau</mark>  <mark>Data Exploration</mark>  <mark>Data Cleaning</mark>  <mark>Data Preparation</mark>  <mark>Statistical Analysis</mark>  <mark>Data Visualization</mark>  <mark>Creating Dashboard</mark>  <mark>Python</mark>  <mark>Pandas</mark>  <mark>Matplotlib</mark>  <mark>MySQL</mark>  <mark>Regex</mark>
+      - layout: left
+        title: Web Development
+      
+        description: | # this will include new lines to allow paragraphs
+           <mark>Django</mark>  <mark>React</mark>  <mark>JavaScript</mark>  <mark>Rest APIs</mark>  <mark>Google Analytics</mark>  <mark>HTML</mark>  <mark>CSS</mark>  <mark>Bootstrap</mark>  <mark>git</mark>
+
+      - layout: left
+        title: Cloud Computing
+      
+        description: | # this will include new lines to allow paragraphs
+          Basics of Managing and deploying solutions on <mark>AZURE</mark> <mark>AWS</mark> <mark>GCP</mark>
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Bangladesh University of Textiles (BUTEX)
+        caption: 2017 - Present
+        sub_title: B.Sc. in Textile Engineering  
+        quote: >
+          Bangladesh University of Textiles (BUTEX), is an engineering based specialized university. It’s  primary aim is to create Textile Engineering graduates to meet the growing demand of the textiles and ready made garment sector which is the highest foreign currency earning sector of Bangladesh.
+        description: | # this will include new lines to allow paragraphs
+          I am doing my major in Industrial and Production Engieering. I am an active member of different clubs and societies. I have also worked as a Class Reprensative. Due to covid-19, my university was not in session for a few months and our graduation has been delayed. I am expecting to graduate in 2022.
+    
+      - layout: left
+        title: MITx on edX
+        caption: 2020 - 2021
+        sub_title: MicroMasters in Supply Chain Management
+        quote: >
+          The MicroMasters program credential from MIT Open Learning is a professional and academic credential for online learners from anywhere in the world. 
+        description: | # this will include new lines to allow paragraphs
+          MicroMasters program in Supply Chain Management represents the equivalent of one semester of coursework at MIT. I had to complete 5 courses and a final comprehensive exam to earn the credential. 
+
+     
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        title: Bangladesh University of Textiles
+        caption: 2017 - Present
+        sub_title: B.Sc. in Textile Engineering  
+
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          Bangladesh University of Textiles (BUTEX), is an engineering based specialized university. It’s  primary aim is to create Textile Engineering graduates to meet the growing demand of the textiles and ready made garment sector which is the highest foreign currency earning sector of Bangladesh.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
- 
+           I am doing my major in Industrial and Production Engieering. I am an active member of different clubs and societies. I have also worked as a Class Reprensative. Due to covid-19, my university was not in session for a few months and our graduation has been delayed. I am expecting to graduate in 2022.
+
+      - layout: top-middle
+        title: MITx on edX
+        caption: 2017 - 2021
+        sub_title: MicroMasters in Supply Chain Management
+
+        quote: >
+          The MicroMasters program credential from MIT Open Learning is a professional and academic credential for online learners from anywhere in the world. 
+        description: | # this will include new lines to allow paragraphs
+           MicroMasters program in Supply Chain Management represents the equivalent of one semester of coursework at MIT. I had to complete 5 courses and a final comprehensive exam to earn the credential. 
+
       - layout: top-middle
         title: Super awesome project 4444
         link: github.com/sproogen
@@ -92,6 +138,20 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: The Boring Companya a 
+        link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: Senior Network System Administrator
+        caption: November 2017 - Present
+        quote: >
+          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+    
+    
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
         title: The Boring Company
         link: boringcompany.com
         # link_text: boringcompany.com
@@ -102,20 +162,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
 
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-   
+  
    
   - title: A Little More About Me
     layout: text
@@ -127,7 +174,7 @@ content:
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
       Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+  
 
 # Footer
 footer_show_references: true
