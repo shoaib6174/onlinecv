@@ -1,0 +1,219 @@
+# Site
+repository: shoaib6174/shoaib6174.github.io
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Mohammad Shoaib
+title: "Microsoft Certified: Data Analyst Associate | Microsoft Certified: Azure Data Scientist Associate"
+
+    
+email: shoaib6174@gmail.com
+Mobile: https://shoaib6174.github.io/
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+twitter_username: shoaib6174
+github_username:  shoaib6174
+# stackoverflow_username: "00000001"
+# dribbble_username: jekyll
+facebook_username: shoaib6174
+instagram_username: shoaib_himself
+linkedin_username: shoaib6174
+
+
+# Additional icon links
+additional_links:
+- title: Medium
+  icon: fab fa-medium
+  url: https://medium.com/@shoaib6174
+<<<<<<< HEAD
+- title: View Resume
+  icon: far fa-file-pdf
+  url: https://drive.google.com/drive/folders/1mfU_AWZmzEvsH3RQhhfKc5T-ulenBCmb?usp=sharing
+=======
+>>>>>>> f35e72360bca40debd9dc26232eb284c90540976
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+ Hello!! I am Mohammad Shoaib. I am a final year student of Bangladesh University of Textiles (BUTEX). I am enthusiastic about Data Science and Business Analytics. I am acquiring knowledge of a wide range of domains, including deep learning, machine learning, data analytics, cloud computing, supply chain management and project management, to become prepared for the challenging future. I also participate in activities of various clubs and communities at university and outside to gain team-work and leadership skills. 
+ 
+
+ <mark>View Resume -></mark> [click here](https://drive.google.com/drive/folders/1mfU_AWZmzEvsH3RQhhfKc5T-ulenBCmb?usp=sharing) .
+
+content:
+  - title: Skills # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Data Science
+      
+        description: | # this will include new lines to allow paragraphs
+           <mark>Computer Vision</mark>  <mark>Sequence Modeling</mark>  <mark>Regression</mark>  <mark>Classification</mark>  <mark>Time Series Analysis</mark>  <mark>Feature Engineering</mark>  <mark>PCA</mark>  <mark>TensorFlow</mark>  <mark>Scikit-learn</mark>  <mark>Implementing Data Science Solution</mark>  
+      - layout: left
+        title: Data Analysis
+      
+        description: | # this will include new lines to allow paragraphs
+           <mark>Power BI</mark>  <mark>Tableau</mark>  <mark>Data Exploration</mark>  <mark>Data Cleaning</mark>  <mark>Data Preparation</mark>  <mark>Statistical Analysis</mark>  <mark>Data Visualization</mark>  <mark>Creating Dashboard</mark>  <mark>Python</mark>  <mark>Pandas</mark>  <mark>Matplotlib</mark>  <mark>MySQL</mark>  <mark>Regex</mark>
+      - layout: left
+        title: Web Development
+      
+        description: | # this will include new lines to allow paragraphs
+           <mark>Django</mark>  <mark>React</mark>  <mark>JavaScript</mark>  <mark>Rest APIs</mark>  <mark>Google Analytics</mark>  <mark>HTML</mark>  <mark>CSS</mark>  <mark>Bootstrap</mark>  <mark>git</mark>
+
+      - layout: left
+        title: Cloud Computing
+      
+        description: | # this will include new lines to allow paragraphs
+          Basics of Managing and deploying solutions on <mark>AZURE</mark> <mark>AWS</mark> <mark>GCP</mark>
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Bangladesh University of Textiles (BUTEX)
+        caption: 2017 - Present
+        sub_title: B.Sc. in Textile Engineering  
+          
+        description: | # this will include new lines to allow paragraphs
+          I am doing my major in Industrial and Production Engieering. I am an active member of different clubs and societies. I have also worked as a Class Reprensative. Due to covid-19, my university was not in session for a few months and our graduation has been delayed. I am expecting to graduate in 2022.
+    
+      - layout: left
+        title: MITx on edX
+        caption: 2020 - 2021
+        sub_title: MicroMasters in Supply Chain Management
+
+        description: | # this will include new lines to allow paragraphs
+           The MicroMasters program credential from MIT Open Learning is a professional and academic credential for online learners from anywhere in the world. MicroMasters program in Supply Chain Management represents the equivalent of one semester of coursework at MIT. I had to complete 5 courses and a final comprehensive exam to earn the credential. 
+
+     
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Home Price Prediction
+        link: https://github.com/shoaib6174/ML-Projects/tree/main/Home%20Price%20Prediction
+        link_text: View Project on GitHub
+        
+        description: | # this will include new lines to allow paragraphs
+          - Developed a ML model for predicting home price of Bangalure City
+          - Developed backend & interface using Flask, JavaScript, HTML, CSS
+          - Deployed in Heroku and AWS EC2 using nginx
+    
+    
+  
+  - title: Certificates # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: "Microsoft Certified: Data Analyst Associate"
+        link: https://www.credly.com/badges/06fc8796-2508-44fe-9a58-a2e0619dc0da
+        link_text: View Certificate
+        sub_title: Microsoft
+        description: | # this will include new lines to allow paragraphs
+           Data Analyst Associate certification validates the skills and knowledge required to enable businesses to maximize the value of their data assets by using Microsoft Power BI. As a subject matter expert, Data Analysts are responsible for designing and building scalable data models, cleaning and transforming data, and enabling advanced analytic capabilities that provide meaningful business value through easy-to-comprehend data visualizations.
+      
+      - layout: top-middle
+        title: "Microsoft Certified: Azure Data Scientist Associate"
+        link: https://www.credly.com/badges/2c3e8d08-6781-40b1-9911-9eef9479893a?
+        link_text: View Certificate
+        sub_title: Microsoft
+        description: | # this will include new lines to allow paragraphs
+           Azure Data Scientist Associate certification validates the skills and knowledge to apply Azure’s machine learning techniques to train, evaluate, and deploy models that solve business problems.
+      
+      - layout: top-middle
+        title: DeepLearning.AI TensorFlow Developer
+        link: https://www.coursera.org/account/accomplishments/specialization/certificate/WCX68NWPVQ86
+        link_text: View Certificate
+        sub_title: DeepLearning.AI on Coursera
+        description: | # this will include new lines to allow paragraphs
+           It certifies that I have learned how to build and train neural networks using TensorFlow, how to improve network performance using convolutions as you train it to identify real-world images, how to teach machines to understand, analyze, and respond to human speech with natural language processing systems, and more!
+
+      - layout: top-middle
+        title: TUM Lean Six Sigma Yellow Belt
+        link: https://drive.google.com/file/d/1ltzo_1_WMbyyBxqIH5Li9UmQka_tKrWt/view
+        link_text: View Certificate
+        sub_title: Technical University of Munich on edX
+        description: | # this will include new lines to allow paragraphs
+           This certificate validates successful completion of the 22-week Professional Series of courses on the edX platform, including 30 hours of lecture, weekly quizzes, and guided on-line case studies and projects on Six Sigma and Lean.
+      
+
+      - layout: top-middle
+        title: Google IT Support
+        link: https://www.coursera.org/account/accomplishments/specialization/certificate/G9ZHP4HURYCQ
+        link_text: View Certificate
+        sub_title: Google on Coursera
+        description: | # this will include new lines to allow paragraphs
+           Google IT Support Professional Certificate validates successfull completion of five-courses, developed by Google, that include hands-on, practice-based assessments and are designed to prepare them for entry-level roles in IT support. They are competent in foundational skills, including troubleshooting and customer service, networking, operating systems, system administration, and security.
+
+  
+  - title: Leadership & Extracurricular Activities
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+        **BUTEX Business Club**, Vice President of Finance, 2017-Present
+
+          - Arranged 3 national level Business Case Competition
+          - Arranged more than 20 workshops and seminars
+        
+        **Association of Industrial & Production Engineers**, BUTEX , Senior Executive, 2019-Present
+            
+          - Arranged IPE fest which included idea competition, poster presentation, gaming and cultural program
+          - Facilitated several workshops and seminars
+        
+        
+        **Young Sustainable Impact (YSI), Bangladesh**, Campus Teams Coordinator, 2018-2019
+            
+          - Co-ordinated teams of campus ambassadors of around 50 universities
+        
+        
+        **Asian Youth-Model United Nations (AYMUN)**, 2017
+            
+          - Represented Cuba in UNHRC
+          - Discussed about invasion of privacy by government’s surveillance programs
+
+  - title: Achievements
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+        - Runners up at BUTEX Debate Club’s Talent Hunt - 2017
+        - Champion, Science Fair - 2013, District Level (Patuakhali District)
+        - Runners up, Science Fair - 2013, Division Level (Barishal Division)
+        - Runners up, Prothom Alo Grameenphone I-Genius Contest-2011, Patuakhali District.
+ 
+ 
+  - title: Professional Development & Online Learning
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+        - **Google on Coursera**: Cloud Architecture with Google Cloud Specialization 
+        - **Codecademy**: Data Science Career Path
+        - **LinkedIn Learning**: Become a Data Analyst
+        - **Programming Hero**: Complete Web Development Course with Jhankar Mahbub
+
+  
+
+# Footer
+footer_show_references: true
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
