@@ -31,12 +31,9 @@ additional_links:
 - title: Medium
   icon: fab fa-medium
   url: https://medium.com/@shoaib6174
-<<<<<<< HEAD
 - title: View Resume
   icon: far fa-file-pdf
   url: https://drive.google.com/drive/folders/1mfU_AWZmzEvsH3RQhhfKc5T-ulenBCmb?usp=sharing
-=======
->>>>>>> f35e72360bca40debd9dc26232eb284c90540976
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
