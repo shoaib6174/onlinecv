@@ -107,7 +107,7 @@ content:
         link_text: View Project on GitHub
         
         description: | # this will include new lines to allow paragraphs
-          - Developed a ML model for predicting home price of Bangalure City
+          - Developed a ML model for predicting home price of Bengaluru City
           - Developed backend & interface using Flask, JavaScript, HTML, CSS
           - Deployed in Heroku and AWS EC2 using nginx
     
