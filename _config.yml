@@ -110,7 +110,15 @@ content:
           - Developed a ML model for predicting home price of Bengaluru City
           - Developed backend & interface using Flask, JavaScript, HTML, CSS
           - Deployed in Heroku and AWS EC2 using nginx
-    
+
+        - layout: left
+        title: Extract Text from Image
+        link: https://github.com/shoaib6174/Extract-Text-from-Image-using-Azure-s-Computer-Vision
+        link_text: View Project on GitHub
+        
+        description: | # this will include new lines to allow paragraphs
+          - Used Azure's Computer Vision API to extract text from image
+          - Build the interface using flask and deployed it on Heroku
     
   
   - title: Certificates # Title for the section
