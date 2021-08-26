@@ -111,7 +111,7 @@ content:
           - Developed backend & interface using Flask, JavaScript, HTML, CSS
           - Deployed in Heroku and AWS EC2 using nginx
 
-        - layout: left
+      - layout: left
         title: Extract Text from Image
         link: https://github.com/shoaib6174/Extract-Text-from-Image-using-Azure-s-Computer-Vision
         link_text: View Project on GitHub
